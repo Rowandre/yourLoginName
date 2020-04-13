@@ -1,0 +1,9 @@
+{
+    "lunch":
+    [
+        {"name": "Hot Dog","price": "60","calories": "2000"},       
+        {"name": "Fries","price": "50","calories": "2000"},
+        {"name": "Burgher","price": "80", "calories": "2500"}
+    ]
+
+}

@@ -1,0 +1,9 @@
+{
+    "dinner":
+    [
+        {"name": "Salmon","price": "100","calories": "2000"},       
+        {"name": "Chicken","price": "90","calories": "2000"},
+        {"name": "Lamb","price": "200", "calories": "2500"}
+    ]
+
+}

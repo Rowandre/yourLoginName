@@ -1,0 +1,8 @@
+{
+    "breakfast": 
+      [
+          {"name": "Boil Eggs","price": "60","calories": "2000"},       
+          {"name": "Fried Eggs","price": "50","calories": "2000"},
+          {"name": "Plantains","price": "70", "calories": "1800"}
+    ]
+  }
